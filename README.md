@@ -7,4 +7,6 @@ Download the js file
 The download function will need a file and a file name
 
 # JavaScript
+```JavaScript
 download(file, name);
+```
