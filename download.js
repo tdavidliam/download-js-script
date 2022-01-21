@@ -1,5 +1,5 @@
 function download(file, name) {
-  var a = document.createElement("a");
+  let a = document.createElement("a");
   a.hidden = true;
   document.body.appendChild(a);
   a.href = file;
